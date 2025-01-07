@@ -26,7 +26,7 @@
 
 
 
-<img src="usecase.PNG" alt="usecase" width="700" height="300">
+<img src="usecase.png" alt="usecase" width="700" height="300">
 
 
 
