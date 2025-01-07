@@ -274,7 +274,7 @@ WebApp --> Client: Ответ от техподдержки
 
 
 
-<img src="erd.png" alt="erd" width="700" height="300">
+<img src="erd.PNG" alt="erd" width="700" height="300">
 
 
 
