@@ -181,7 +181,7 @@ UC4.1-->PS
 
 
 
-<img src="seq_diag1.PNG" alt="seq_diag1" width="700" height="300">
+<img src="seq_diag1.png" alt="seq_diag1" width="700" height="300">
 
 
 
@@ -222,7 +222,7 @@ WebApp --> Client: Отображение списка автомоек
 
 
 
-<img src="seq_diag2.PNG" alt="seq_diag2" width="700" height="300">
+<img src="seq_diag2.png" alt="seq_diag2" width="700" height="300">
 
 
 
@@ -274,7 +274,7 @@ WebApp --> Client: Ответ от техподдержки
 
 
 
-<img src="erd.PNG" alt="erd" width="700" height="300">
+<img src="erd.png" alt="erd" width="700" height="300">
 
 
 
@@ -373,7 +373,7 @@ Table Support {
 
 
 
-<img src="c2.PNG" alt="c2" width="900" height="700">
+<img src="c2.png" alt="c2" width="900" height="700">
 
 
 
