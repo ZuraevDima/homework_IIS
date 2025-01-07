@@ -373,7 +373,7 @@ Table Support {
 
 
 
-<img src="c2.png" alt="c2" width="900" height="700">
+<img src="c2.png" alt="c2" width="100%" height="100%">
 
 
 
