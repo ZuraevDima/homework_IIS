@@ -18,7 +18,18 @@
 
 ### <p align="center"><i>Usecase</i></p>
 
+
+
+
+
+
+
+
+
 <img src="usecase.PNG" alt="usecase" width="700" height="300">
+
+
+
 
 <details>
   <summary>Код Use Case</summary>
@@ -164,7 +175,17 @@ UC4.1-->PS
 ### <p align="center"><i>Sequence diagram</i></p>
 
 #### 1. Выбор города и автомойки
+
+
+
+
+
+
 <img src="seq_diag1.PNG" alt="seq_diag1" width="700" height="300">
+
+
+
+
 
 <details>
   <summary>Код Sequence diagram Выбор города и автомойки</summary>
@@ -197,7 +218,15 @@ WebApp --> Client: Отображение списка автомоек
 </details>
 
 #### 2. Все остальное (запись на услугу, оплата и обращение в техподдержку)
+
+
+
+
 <img src="seq_diag2.PNG" alt="seq_diag2" width="700" height="300">
+
+
+
+
 <details>
   <summary>Код Sequence diagram</summary>
   
@@ -240,7 +269,18 @@ WebApp --> Client: Ответ от техподдержки
 </details>
 
 ### <p align="center"><i>ERD</i></p>
+
+
+
+
+
 <img src="erd.PNG" alt="erd" width="700" height="300">
+
+
+
+
+
+
 
 #### Описание связей между таблицами
 1. Клиент - Запись на мойку (Client - Booking). Один клиент может сделать несколько записей на мойку.<br>
@@ -324,8 +364,22 @@ Table Support {
 </details>
 <hr>
 <p align="center"><i>C1 and C2</i></p>
+
+
+
 <img src="c1.PNG" alt="c1" width="700" height="400">
+
+
+
+
+
 <img src="c2.PNG" alt="c2" width="900" height="700">
+
+
+
+
+
+
 <p align="center"><i>openapi.yaml</i></p>
 <p>ToDo:<br>
 1. Сделать openapi.yaml в репозитории<br>
